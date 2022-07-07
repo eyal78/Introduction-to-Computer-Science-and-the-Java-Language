@@ -9,7 +9,7 @@ public class Train
 		Scanner scan=new Scanner(System.in);
 		System.out.println("please enter the speed of train 1:");
 		int v1=scan.nextInt();
-		System.out.println("please enter the stime of train 1:");
+		System.out.println("please enter the time of train 1:");
 		double t1=scan.nextDouble();
 		t1=t1/60;
 		System.out.println("please enter the speed of train 2:");
@@ -20,7 +20,7 @@ public class Train
 		x1=v1*t1;
 		x2=v2*t2;
 		deltaX=Math.abs(x1-x2);
-		System.out.println(deltaX);
+		System.out.println("The distance between the train is "+deltaX+" km.");
 		
 	}
 }
