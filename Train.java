@@ -1,4 +1,4 @@
-package mmn11;
+
 import java.util.Scanner;
 
 public class Train 
