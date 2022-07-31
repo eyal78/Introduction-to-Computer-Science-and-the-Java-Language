@@ -5,6 +5,7 @@ public class Train
 {
 	public static void main(String[] args)
 	{
+		System.out.println("hello world");
 		double x1,x2,deltaX;
 		Scanner scan=new Scanner(System.in);
 		System.out.println("please enter the speed of train 1:");
