@@ -13,5 +13,41 @@ public class Date
         _month=month;
         _year=year;
     }
+    //
+    public Date(Date other)  
+    {
+      
+    }
+    //
+    public getDay()
+    {
+
+    } 
+    //
+    public getMonth()
+    {
+
+    }
+    //
+    public getYear
+    {
+
+    }
+    //
+    public setDay()
+    {
+
+    }
+    //
+    public setMonth()
+    {
+
+    }
+    //
+    public setYear()
+    {
+
+    }
     
+
 }
