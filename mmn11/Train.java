@@ -14,7 +14,7 @@ public class Train
 		t1=t1/60;
 		System.out.println("please enter the speed of train 2:");
 		int v2=scan.nextInt();
-		System.out.println("please enter the stime of train 2:");
+		System.out.println("please enter the time of train 2:");
 		double t2=scan.nextDouble();
 		t2=t2/60;
 		x1=v1*t1;
